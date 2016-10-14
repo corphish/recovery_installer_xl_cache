@@ -4,12 +4,14 @@
 		"desc": "First test theme",
 		"download_url": "blabla",
 		"package": "com.corphish.test1",
-		"banner_url": "blabla"
+		"banner_url": "blabla",
+		"thumbnail_url": "https://lh3.ggpht.com/J2tezxKcyO-3VSfKmBUEd1qN87ONI9tXoGNp-eerK0ENt5e2efYylqEQnlDLJYs_ndW2=w300"
 	}, {
 		"name": "Test Theme 2",
 		"desc": "Second test theme",
 		"download_url": "blabla",
 		"package": "com.corphish.test2",
-		"banner_url": "blabla"
+		"banner_url": "blabla",
+		"thumbnail_url": "https://lh3.googleusercontent.com/_Ofe1l5kLKOZPctG4esWo4XYlbhnIQ5Lt34oRxSbsuQR_9Nr98oMdNM590iy9DSNHRsP=w300"
 	}]
 }
