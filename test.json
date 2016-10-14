@@ -1,0 +1,15 @@
+{
+	"theme": [{
+		"name": "Test Theme 1",
+		"desc": "First test theme",
+		"download_url": "blabla",
+		"package": "com.corphish.test1",
+		"banner_url": "blabla"
+	}, {
+		"name": "Test Theme 2",
+		"desc": "Second test theme",
+		"download_url": "blabla",
+		"package": "com.corphish.test2",
+		"banner_url": "blabla"
+	}]
+}
